@@ -6,9 +6,9 @@ Welcome to the AI Examples Repository. Here you'll find some solutions and code 
 
 What's inside?
 
-- Python Notebooks
-- Python programs
-- C# Notebooks
+- C# Notebooks  
+  - [00-semantic-kernel-basic.ipynb](00-semantic-kernel-basic/00-semantic-kernel-basic.ipynb)
+  - [01-semantic-kernel-function-calling.ipynb](01-semantic-kernel-function-calling/01-semantic-kernel-function-calling.ipynb)
 
 ## Getting Set Up
 
