@@ -12,7 +12,7 @@ What's inside?
 
 ## Getting Set Up
 
-Want to try out the Python or .NET C# notebooks? Here’s how to get started:
+Here’s how to get started:
 
 ### Prerequisites
 
